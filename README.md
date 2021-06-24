@@ -93,4 +93,27 @@ Logging in the United States generally occurs on land that remains forest afterw
 Accordingly, we assume zero potential for CO2 abatement from avoiding deforestation in the United States.
 
 
+## CO2 sequestered per acre
+
+### Afforestation / Reforestation	
+
+Forest Carbon Sequestration per Acre per Year	
+
+We use an area-weighted average of the annualized "No Harvest" carbon sequestration rates from our county-level dataset.	
+	
+2.729 metric tons CO2 / acre / yr
+
+2729485.11 g CO2 / acre / yr
+	
+### Forest Set-Asides	
+Total Aboveground Carbon in U.S. Forests = 14312 million metric tons C
+	
+Total U.S. Forest Acreage = 751	million acres
+	
+Live Aboveground Carbon per Forest Acre	= 19.06	metric tons C/acre =  19,057,257 g C/acre =  69,876,609 g CO2/acre
+	
+Felling Cycle Length = 40 years
+	
+Avoided CO2 release per Year =  1,746,915 g CO2 / acre / yr
+
 
