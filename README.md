@@ -17,16 +17,13 @@ High Estimate	450	million acres
 		
 Gorte estimates the fraction of the 1.8 billion acres of undeveloped land that could sustain a forest.  (It does not matter if it is reforestation or afforestation- we are looking at the total land area that is not now forest but could become forest.)  We take the average of Gorte's	low-end and high-end estimates.		
 		
-Acres Available	MN	<-State
- 24,751,690 	acres	
+Acres Available	MN = 	
+24,751,690 	acres	
 		
-The state has a total land area of roughly		
- 50,961,000 	acres, so this represents converting	
-48.6%	of the state's land	
-into forest (on top of existing forest lands).		
+The state has a total land area of roughly 50,961,000 acres, so this represents converting 48.6% of the state's land into forest (on top of existing forest lands).		
 		
 Acres Available Annually for Conversion		
-This depends on the speed with which it would be possible to conduct tree planting operations on the available acres.  In practice, this may depend	as much on financial and legal hurdles as on technical challenges, such as workforce or tree availability.  Lacking good data on this topic, and given the very large potential land area that could sustain a forest, it is best to assume a long time horizon, to avoid making the afforestation/reforestion policy lever unrealistically strong.	Accordingly, we will assume that if all of the suitable lands could	be converted to forest, it would require 1 year for each 0.1% of the lower 48 states' contiguous land area.		
+This depends on the speed with which it would be possible to conduct tree planting operations on the available acres.  In practice, this may depend	as much on financial and legal hurdles as on technical challenges, such as workforce or tree availability.  Lacking good data on this topic, and given the very large potential land area that could sustain a forest, it is best to assume a long time horizon, to avoid making the afforestation/reforestion policy lever unrealistically strong. Accordingly, we will assume that if all of the suitable lands could	be converted to forest, it would require 1 year for each 0.1% of the lower 48 states' contiguous land area.		
 		
 0.1%	fraction of lower 48 states' land area forested per year	
 486	years needed to afforest/reforest all available acreage	
@@ -35,17 +32,17 @@ This depends on the speed with which it would be possible to conduct tree planti
 
 ### Set asides
 Annual Acreage Cut						
-thousand acres						
-	Clearcut	Partial Cut				
-All Owners	3774	6081				
+thousand acres | Clearcut | Partial Cut		
+--|--|--
+All Owners | 3774 | 6081				
 						
-We assume that a "Partial Cut" results in 50% deforestation on a given acre, so we weight partial cut half as heavily as clearcut when determining the number	of acres cut per year.						
+We assume that a "Partial Cut" results in 50% deforestation on a given acre, so we weight partial cut half as heavily as clearcut when determining the number of acres cut per year.						
 						
-Acres Cut per Year						State
-6814.5	thousand acres					Minnesota
-6814500	acres				Forest acres in state	17371000
-818,816,000	total forest acres in the US				Acres cut in state	144568.1075
-0.008322383	fraction of acres cut / year (national)					
+Acres Cut per Year (MN) |  |  | |
+--|--|--|--
+6814500	| acres cut in US| 144568.1075 | Acres cut in state	
+818,816,000 | total forest acres in the US | 17371000 | Forest acres in state				
+0.008322383 | fraction of acres cut / year (national)	|  | 				
 
 How many of these acres are available annually for set-asides?						
 This depends on the speed with which timber harvesting could be scaled down, given the need to find replacement materials for forest products.						
