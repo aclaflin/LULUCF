@@ -1,6 +1,6 @@
 # LULUCF
 
-##BAU
+## BAU
 
 BAU scenario takes average of high and low rates of sequestration scenarios from the US inventory for 2015, 2020, 2025, and 2030 (Report to UNFCC, Table 3, below) and uses the TREND function to return a linear trend using the least squares method to extend the projected sequestration to 2050.
 
@@ -9,9 +9,9 @@ https://unfccc.int/files/national_reports/biennial_reports_and_iar/submitted_bie
   ![image](https://user-images.githubusercontent.com/8172631/123321446-9dd6a580-d4f8-11eb-930c-e38e907ae229.png)
 
 
-##From Potential Land area
+## From Potential Land area
 
-###Acres Available Afforestation and Reforestation		
+### Acres Available Afforestation and Reforestation		
 Low Estimate	100	million acres
 High Estimate	450	million acres
 		
@@ -33,7 +33,7 @@ This depends on the speed with which it would be possible to conduct tree planti
 		
 5.10E+04	acres able to be afforested or reforested per year	
 
-###Set asides
+### Set asides
 Annual Acreage Cut						
 thousand acres						
 	Clearcut	Partial Cut				
@@ -54,7 +54,7 @@ It also is likely not desirable to completely cease timber harvesting, as wood i
 2%	potential reduction in timber harvesting achievable per year							
 2891.36215	acres potentially available for forest set-asides per year	
 
-###Improved forest management
+### Improved forest management
 
 No data for acres of forest land currently using best management practices (US Forest Service, National report on Sustainable Forests. 2010). 
 
@@ -75,7 +75,7 @@ We assume that within the model run timeframe, half of the forests not yet under
 	
 8.69E+03	acres potentially affected by improved forest management per year
 
-###Avoided deforestation
+### Avoided deforestation
 When logging occurs but does not change the land type from forest to non-forest, this does not count as deforestation for purposes of this model.
 
 Logging in the United States generally occurs on land that remains forest afterward, and as such, reduction of this timber harvesting is governed by the "Forest Set-Asides" policy lever, not the "Avoid Deforestation" policy lever.
