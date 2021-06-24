@@ -5,6 +5,7 @@
 BAU scenario takes average of high and low rates of sequestration scenarios from the US inventory for 2015, 2020, 2025, and 2030 (Report to UNFCC, Table 3, below) and uses the TREND function to return a linear trend using the least squares method to extend the projected sequestration to 2050.
 
 https://unfccc.int/files/national_reports/biennial_reports_and_iar/submitted_biennial_reports/application/pdf/2016_second_biennial_report_of_the_united_states_.pdf (page 34, Table 3)
+
   ![image](https://user-images.githubusercontent.com/8172631/123321446-9dd6a580-d4f8-11eb-930c-e38e907ae229.png)
 
 
