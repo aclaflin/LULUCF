@@ -1,4 +1,4 @@
-# LULUCF
+# Land use, land use change, and forestry
 
 ## BAU
 
@@ -11,27 +11,31 @@ https://unfccc.int/files/national_reports/biennial_reports_and_iar/submitted_bie
 
 ## From Potential Land area
 
-### Acres Available Afforestation and Reforestation		
-Low Estimate	100	million acres
-High Estimate	450	million acres
+### Acres Available Afforestation and Reforestation	
+
+Low Estimate = 100 million acres
+
+High Estimate = 450 million acres
 		
-Gorte estimates the fraction of the 1.8 billion acres of undeveloped land that could sustain a forest.  (It does not matter if it is reforestation or afforestation- we are looking at the total land area that is not now forest but could become forest.)  We take the average of Gorte's	low-end and high-end estimates.		
+Gorte (https://www.fas.org/sgp/crs/misc/R40562.pdf) estimates the fraction of the 1.8 billion acres of undeveloped land that could sustain a forest.  (It does not matter if it is reforestation or afforestation- we are looking at the total land area that is not now forest but could become forest.)  We take the average of Gorte's low-end and high-end estimates.		
 		
-Acres Available	MN = 	
-24,751,690 	acres	
+Acres Available	MN = 24,751,690 acres	
 		
 The state has a total land area of roughly 50,961,000 acres, so this represents converting 48.6% of the state's land into forest (on top of existing forest lands).		
 		
 Acres Available Annually for Conversion		
-This depends on the speed with which it would be possible to conduct tree planting operations on the available acres.  In practice, this may depend	as much on financial and legal hurdles as on technical challenges, such as workforce or tree availability.  Lacking good data on this topic, and given the very large potential land area that could sustain a forest, it is best to assume a long time horizon, to avoid making the afforestation/reforestion policy lever unrealistically strong. Accordingly, we will assume that if all of the suitable lands could	be converted to forest, it would require 1 year for each 0.1% of the lower 48 states' contiguous land area.		
+
+This depends on the speed with which it would be possible to conduct tree planting operations on the available acres.  In practice, this may depend as much on financial and legal hurdles as on technical challenges, such as workforce or tree availability.  Lacking good data on this topic, and given the very large potential land area that could sustain a forest, it is best to assume a long time horizon, to avoid making the afforestation/reforestion policy lever unrealistically strong. Accordingly, we will assume that if all of the suitable lands could be converted to forest, it would require 1 year for each 0.1% of the lower 48 states' contiguous land area.		
 		
-0.1%	fraction of lower 48 states' land area forested per year	
-486	years needed to afforest/reforest all available acreage	
+0.1% = fraction of lower 48 states' land area forested per year	
+
+486 = years needed to afforest/reforest all available acreage	
 		
-5.10E+04	acres able to be afforested or reforested per year	
+**50,961 = acres able to be afforested or reforested per year**	
+
 
 ### Set asides
-Annual Acreage Cut						
+Annual Acreage Cut in US						
 thousand acres | Clearcut | Partial Cut		
 --|--|--
 All Owners | 3774 | 6081				
@@ -42,35 +46,44 @@ Acres Cut per Year (MN) |  |  | |
 --|--|--|--
 6814500	| acres cut in US| 144568.1075 | Acres cut in state	
 818,816,000 | total forest acres in the US | 17371000 | Forest acres in state				
-0.008322383 | fraction of acres cut / year (national)	|  | 				
+0.008322383 | fraction of acres cut / year (national)	|  | 	
 
-How many of these acres are available annually for set-asides?						
-This depends on the speed with which timber harvesting could be scaled down, given the need to find replacement materials for forest products.						
-It also is likely not desirable to completely cease timber harvesting, as wood is a renewable resource and may be better than fabricating	certain replacement materials.  Lacking good data on this, we will assume that timber harvesting could be reduced from its present scale by 2% of its current level per year.  The model run period (2016-2050) is 35 years long, so if the policy were to be implemented in full strength throughout the entire model run,	there would be a total 70% reduction in timber harvesting per year by the end.						
+Acres cut in MN = forest acres in state * national fraction
 
-2%	potential reduction in timber harvesting achievable per year							
-2891.36215	acres potentially available for forest set-asides per year	
+How many of these acres are available annually for set-asides?		
+
+This depends on the speed with which timber harvesting could be scaled down, given the need to find replacement materials for forest products.
+
+It also is likely not desirable to completely cease timber harvesting, as wood is a renewable resource and may be better than fabricating certain replacement materials. Lacking good data on this, we will assume that timber harvesting could be reduced from its present scale by 2% of its current level per year. The model run period (2016-2050) is 35 years long, so if the policy were to be implemented in full strength throughout the entire model run, there would be a total 70% reduction in timber harvesting per year by the end.						
+
+2% = potential reduction in timber harvesting achievable per year		
+
+**2891 = acres potentially available for forest set-asides per year**	
+
 
 ### Improved forest management
 
 No data for acres of forest land currently using best management practices (US Forest Service, National report on Sustainable Forests. 2010). 
 
-Total State Forest Acreage	
- 17,371.00 	acres
-	
 Acreage of Forest Eligible for Improved Management Practices	
-0.000	Fraction of forest acreage already using best management practices
-1.74E+04	acres eligible for improved management practices
-	
+ 
+Total State Forest Acreage = 17,371.00 acres **[This seems like a mistake in units?]**
+ 
+0 = Fraction of forest acreage already using best management practices
+
+17,431 = acres eligible for improved management practices **[unit error persists?]**
+
+
 Fraction Achievable Each Year	
-Unlike afforestation/reforestatin and set-asides, improved forest management has to be maintained every year to keep getting carbon benefits.  Accordingly, each year, any acreage affected by the Improved Forest Management policy is	considered to be "newly" affected acreage by that policy this year, for purposes of this variable.	
+
+Unlike afforestation/reforestation and set-asides, improved forest management has to be maintained every year to keep getting carbon benefits.  Accordingly, each year, any acreage affected by the Improved Forest Management policy is considered to be "newly" affected acreage by that policy this year, for purposes of this variable.	
 	
 We assume that within the model run timeframe, half of the forests not yet under best management practices could be brought under such practices.  Remainder may be too remote, have legal/ownership complications, or other issues.	
 	
-50%	fraction of eligible forest that could be brought under best
-	management practices during model run
+50% = fraction of eligible forest that could be brought under best management practices during model run
 	
-8.69E+03	acres potentially affected by improved forest management per year
+**8,686 = acres potentially affected by improved forest management per year** **[unit error persists?]**
+
 
 ### Avoided deforestation
 When logging occurs but does not change the land type from forest to non-forest, this does not count as deforestation for purposes of this model.
