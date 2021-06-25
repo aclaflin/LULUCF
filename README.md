@@ -128,6 +128,6 @@ Avoided CO2 release per Year =  1,746,915 g CO2 / acre / yr
 
 ### Improved management
 
-Present value of carbon uptake over an 85 year timeline at a discount rate of 5%. Converted to annual value.
+County data: Present value of carbon uptake over an 85 year timeline at a discount rate of 5%. Converted to annual value.
 
-
+2.6 tons CO2/acre/yr (average of high and low estimate)
