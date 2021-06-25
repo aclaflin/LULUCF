@@ -3,6 +3,8 @@
 Notes and comments are indicated with **[bold, bracketed text]**
 Other text and equations are pulled out of simulation files. Some edits made for clarity. Data input files are publicly available (https://us.energypolicy.solutions/docs/download.html) and also copied here for simplicity. 
 
+Energy Innovations (https://github.com/Energy-Innovation/eps-minnesota)
+
 
 ![image](https://user-images.githubusercontent.com/8172631/123455113-f5334f00-d5a6-11eb-9995-0a0cc6e336f6.png)
 
