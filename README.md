@@ -126,4 +126,8 @@ Felling Cycle Length = 40 years
 	
 Avoided CO2 release per Year =  1,746,915 g CO2 / acre / yr
 
+### Improved management
+
+Present value of carbon uptake over an 85 year timeline at a discount rate of 5%. Converted to annual value.
+
 
