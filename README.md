@@ -1,8 +1,15 @@
 # Land use, land use change, and forestry
 
+Notes and comments are indicated with **[bold, bracketed text]**
+Other text and equations are pulled out of simulation files. Some edits made for clarity. Data input files are publicly available (https://us.energypolicy.solutions/docs/download.html) and also copied here for simplicity. 
+
+
+![image](https://user-images.githubusercontent.com/8172631/123455113-f5334f00-d5a6-11eb-9995-0a0cc6e336f6.png)
+
+
 ## BAU
 
-BAU scenario takes average of high and low rates of sequestration scenarios from the US inventory for 2015, 2020, 2025, and 2030 (Report to UNFCC, Table 3, below) and uses the TREND function to return a linear trend using the least squares method to extend the projected sequestration to 2050.
+**[BAU scenario takes average of high and low rates of sequestration scenarios from the US inventory for 2015, 2020, 2025, and 2030 (Report to UNFCC, Table 3, below) and uses the TREND function to return a linear trend using the least squares method to extend the projected sequestration to 2050.]**
 
 https://unfccc.int/files/national_reports/biennial_reports_and_iar/submitted_biennial_reports/application/pdf/2016_second_biennial_report_of_the_united_states_.pdf (page 34, Table 3)
 
@@ -103,7 +110,6 @@ We use an area-weighted average of the annualized "No Harvest" carbon sequestrat
 	
 2.729 metric tons CO2 / acre / yr
 
-2729485.11 g CO2 / acre / yr
 	
 ### Forest Set-Asides	
 Total Aboveground Carbon in U.S. Forests = 14312 million metric tons C
