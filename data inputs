@@ -1,0 +1,11 @@
+Top Level Folder |	Acronym	Meaning	| Contents (for multi-variable folders)	
+--|--|--
+land	| AOCoLUPpUA |	Annual Ongoing Cost of Land Use Policies per Unit Area	
+land	| BLAPE |	BAU LULUCF Anthropogenic Pollutant Emissions	
+land	| CApULAbIFM	| CO2 Abated per Unit Land Area by Improved Forest Management		
+land	| CiLVpUAAbP	| Change in Land Value per Unit Area Affected by Policy			
+land	| CSpULApYbP |	CO2 Sequestered per Unit Land Area per Year by Policy				
+land	| FoFObE |	Fraction of Forests Owned by Entity				
+land  | ICoLUPpUA |	Implementation Cost of Land Use Policies per Unit Area				
+land	| PLANAbPiaSY |	Potential Land Area Newly Affected by Policy in a Single Year			
+land	| RPEpUACE	| Rebound Pollutant Emissions per Unit Avoided CO2 Emissions				
