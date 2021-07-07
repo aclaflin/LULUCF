@@ -1,7 +1,7 @@
 # Land use, land use change, and forestry
 
 Notes and comments are indicated with **[bold, bracketed text]**
-Other text and equations are pulled out of simulation files from Energy Innovations. Some edits made for clarity. Data input files are publicly available (https://us.energypolicy.solutions/docs/download.html) and also copied here for accessibility and versin control. 
+Other text and equations are pulled out of simulation files from Energy Innovations. Some edits made for clarity. Data input files are publicly available (https://us.energypolicy.solutions/docs/download.html) and also copied here for accessibility and version control. 
 
 Energy Innovations: https://github.com/Energy-Innovation/eps-minnesota
 
