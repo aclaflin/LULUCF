@@ -1,7 +1,7 @@
 # Land use, land use change, and forestry
 
 Notes and comments are indicated with **[bold, bracketed text]**
-Other text and equations are pulled out of simulation files from Energy Innovations. Some edits made for clarity. Data input files are publicly available (https://us.energypolicy.solutions/docs/download.html) and also copied here for accessibility and versin control. 
+Other text and equations are pulled out of simulation files from Energy Innovations. Some edits made for clarity. Data input files are publicly available (https://us.energypolicy.solutions/docs/download.html) and also copied here for accessibility and version control. 
 
 Energy Innovations: https://github.com/Energy-Innovation/eps-minnesota
 
@@ -14,6 +14,8 @@ Documentation: https://us.energypolicy.solutions/docs/lulucf.html
 ## BAU
 
 **[BAU scenario takes average of high and low rates of sequestration scenarios from the US inventory for 2015, 2020, 2025, and 2030 (Report to UNFCC, Table 3, below) and uses the TREND function to return a linear trend using the least squares method to extend the projected sequestration to 2050.]**
+
+**[More recent biennial reports from the US were not submitted. See issue #6 (https://github.com/aclaflin/LULUCF/issues/6) for description of carbon pools.]**
 
 https://unfccc.int/files/national_reports/biennial_reports_and_iar/submitted_biennial_reports/application/pdf/2016_second_biennial_report_of_the_united_states_.pdf (page 34, Table 3)
 
