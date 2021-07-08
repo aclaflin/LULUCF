@@ -80,11 +80,11 @@ No data for acres of forest land currently using best management practices (US F
 
 Acreage of Forest Eligible for Improved Management Practices	
  
-Total State Forest Acreage = 17,371.00 acres **[This seems like a mistake in units?]**
+Total State Forest Acreage = 17,371.00 acres **[This seems like a mistake in units? See issue #2]**
  
 0 = Fraction of forest acreage already using best management practices
 
-17,431 = acres eligible for improved management practices **[unit error persists?]**
+17,431 = acres eligible for improved management practices **[unit error persists]**
 
 
 Fraction Achievable Each Year	
@@ -93,9 +93,9 @@ Unlike afforestation/reforestation and set-asides, improved forest management ha
 	
 We assume that within the model run timeframe, half of the forests not yet under best management practices could be brought under such practices.  Remainder may be too remote, have legal/ownership complications, or other issues.	
 	
-50% = fraction of eligible forest that could be brought under best management practices during model run
+**50% = fraction of eligible forest that could be brought under best management practices during model run**
 	
-**8,686 = acres potentially affected by improved forest management per year** **[unit error persists?]**
+**8,686 = acres potentially affected by improved forest management per year** **[unit error persists]**
 
 
 ### Avoided deforestation
